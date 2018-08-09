@@ -1,2 +1,2 @@
 # the-git-practice
-for git practic and testing 
+for git practic and testing the cli tool
